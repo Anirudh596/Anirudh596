@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on cutting-edge SaaS projects, monorepo setups, and admin-customizable platforms for small startups.
 - 🤔 I’m looking for help with advanced DSA topics to prepare for FAANG/MAANG jobs.
 - 💬 Ask me about React Native, Next.js, TypeScript, and building scalable SaaS platforms.
-- 📫 How to reach me: anirudholiyan.in, 8791409391
+- 📫 How to reach me: anirudholiyan.in, XXXX409391
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a vegetarian who loves exploring scalable systems and spending time optimizing software for speed and performance.
 
