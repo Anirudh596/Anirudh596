@@ -18,11 +18,6 @@
 - 🧑‍💻 Version Control: Git, GitHub
 - ☁️ Other Skills: SaaS development, building role-based admin panels, CLI tools for deployment automation
 
-## GitHub Stats
-![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh596&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh596&layout=compact&theme=radical)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/anirudholiyan)
